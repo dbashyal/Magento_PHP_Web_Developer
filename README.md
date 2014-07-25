@@ -59,12 +59,15 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 - <a href="http://www.blueboxworkwear.com.au/" rel="external nofollow">blueboxworkwear.com.au</a>
 - <a href="http://chainsoflove.com.au/" rel="external nofollow">chainsoflove.com.au</a> (it was awesome site, but looks like no longer exists)
 - <a href="http://www.costumebox.com.au/" rel="external nofollow">costumebox.com.au</a>
+- <a href="http://www.crazyclarks.com.au/" rel="external nofollow">crazyclarks.com.au</a>
 - <a href="https://www.dealsdownunder.com.au/" rel="external nofollow">dealsdownunder.com.au</a>
 - <a href="http://www.dlink.com.au/" rel="external nofollow">dlink.com.au</a>
 - <a href="http://dlink.co.nz/" rel="external nofollow">dlink.co.nz</a> (coming soon)
 - <a href="http://www.k-co.com.au/" rel="external nofollow">k-co.com.au</a>
 - <a href="http://www.paddypallin.com.au/" rel="external nofollow">paddypallin.com.au</a>
 - <a href="http://www.pukaraestate.com.au/" rel="external nofollow">pukaraestate.com.au</a>
+- <a href="http://www.samswarehouse.com.au/" rel="external nofollow">samswarehouse.com.au</a>
+
 
 
 
