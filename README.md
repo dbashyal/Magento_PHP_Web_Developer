@@ -2,13 +2,16 @@ Damodar Bashyal
 ===============
 
 LinkedIn: <a href="http://au.linkedin.com/in/dbashyal/" rel="nofollow">http://au.linkedin.com/in/dbashyal/</a>
+
 Twitter: <a href="http://twitter.com/dbashyal/" rel="nofollow">http://twitter.com/dbashyal</a>
+
 Personal Websites:
+
  - <a href="http://damodarbashyal.com/," rel="nofollow">http://damodarbashyal.com/</a> (my homepage)
  - <a href="http://codefight.org/," rel="nofollow">http://codefight.org/</a> (my custom cms)
  - <a href="http://dltr.org/" rel="nofollow">http://dltr.org/</a> (my magento + web development blog)
 
-Address:	Banksia, NSW 2216, Australia
+**Address:** PO BOX 1124, Rockdale, NSW 2216, Australia
 	
 
 ## Objective
