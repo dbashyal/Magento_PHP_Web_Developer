@@ -63,6 +63,7 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 - <a href="http://www.blueboxworkwear.com.au/" rel="external nofollow">blueboxworkwear.com.au</a>
 - <a href="http://chainsoflove.com.au/" rel="external nofollow">chainsoflove.com.au</a> (it was awesome site, but looks like no longer exists)
 - <a href="http://www.costumebox.com.au/" rel="external nofollow">costumebox.com.au</a>
+- <a href="http://www.k-co.com.au/" rel="external nofollow">k-co.com.au</a>
 
 
 
