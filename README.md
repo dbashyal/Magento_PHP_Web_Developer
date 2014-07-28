@@ -21,14 +21,17 @@ To obtain a challenging and rewarding senior magento web developer position wher
 ## Work experience
 
 ### Acidgreen Pty Ltd (April 2008 - Present), Senior Web Developer
-- I was employed as low-mid web developer and took not long to reach the position of senior web developer.
-- Being one of the experienced staff, most difficult projects always end up to my desk which I enjoy as I always love challenges
-- I was lead developer for one of our first biggest client Binglee at acidgreen.
-- Since Binglee, we have been getting lots of large projects, and I have been involved with almost all of them in developing and deploying to live.
-- I have developed magento projects from scratch to production alone.
-- I am capable of doing both backend and frontend.
-- I have created few extensions which runs in many sites we developed. You can find some of my extensions on my github
-	repository at - https://github.com/dbashyal
+- I was employed as web developer and took no long to reach the position of senior web developer.
+- Being one of the experienced staff, most difficult projects end up to my project list which I enjoy as I always love challenges.
+- I was lead developer for one of our biggest magento client Binglee at acidgreen.
+- Since Binglee, we have been getting lots of large magento projects, and I have been involved with almost all of them in developing and deploying to live.
+- I have developed magento projects from scratch to production alone. So I can do both backend and frontend. I was not only coding backend, I was slicing PSDs and converting them to PHTML for magento frontend.
+- I used to install magento on local environment and staging. After testing on local, I used to push on staging for client's review. Once everything was completed and approved, I used to copy staging site to production.
+- We were using git to track all the changes and version the release.
+- We had Capistrano to automate deployment of latest release to production and staging.
+- I have created few magento extensions which runs in many sites.
+- You can find some of my magento extensions on my github repository at - https://github.com/dbashyal
+
 
 ### Visiontech Digital Media (Jan 2007 - April 2008), Web Developer
 - Started as a Junior Web Developer but exceeded everyone's expectation to drop Junior from title.
