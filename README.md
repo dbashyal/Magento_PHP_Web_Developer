@@ -16,7 +16,7 @@ Personal Websites:
 
 ## Objective
 
-To obtain a challenging and rewarding senior web developer position where I can utilize my knowledge, proficiency, and skills to contribute to a company's growth.
+To obtain a challenging and rewarding senior magento web developer position where I can utilize my knowledge, proficiency, and skills to contribute to a company's growth.
 
 ## Work experience
 
@@ -41,6 +41,8 @@ To obtain a challenging and rewarding senior web developer position where I can 
 -	Magento (backend + frontend)
 -	MySQL
 -	jQuery
+-	Ajax
+-	JavaScript
 -	Photoshop
 -	GIT
 -	HTML5
@@ -52,6 +54,14 @@ To obtain a challenging and rewarding senior web developer position where I can 
 Some of the subjects I studied there includes C# .Net C C++ Java Linux
 
 ### Diploma In Information Technology (2000 - 2003), Clarendon Business College
+
+## Interests
+
+- Travel.
+- Reading Books On:
+ - Developing Magento Extensions.
+ - Search Engine Optimisation.
+ - Different Programming Languages.
 
 ## Some of the websites I developed alone or was part of development team includes:
 - <a href="http://www.aquashop.com.au/" rel="external nofollow">aquashop.com.au</a>
