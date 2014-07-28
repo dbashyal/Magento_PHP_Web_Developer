@@ -11,6 +11,8 @@ Personal Websites:
  - <a href="http://codefight.org/," rel="nofollow">http://codefight.org/</a> (my custom cms)
  - <a href="http://dltr.org/" rel="nofollow">http://dltr.org/</a> (my magento + web development blog)
 
+Stack Overflow: <a href="http://careers.stackoverflow.com/dbashyal" rel="external nofollow">http://careers.stackoverflow.com/dbashyal</a>
+
 **Address:** PO BOX 1124, Rockdale, NSW 2216, Australia
 	
 
@@ -49,7 +51,8 @@ To obtain a challenging and rewarding senior magento web developer position wher
 -	Photoshop
 -	GIT
 -	HTML5
--	CSS3 etc...
+-	CSS3
+-	SEO etc...
 
 ## Education
 
