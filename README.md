@@ -43,7 +43,8 @@ To obtain a challenging and rewarding senior magento web developer position wher
 ## Qualifications
 -	Magento Certified Web Developer.
 -	PHP
--	Magento (backend + frontend)
+-	Magento CE & EE (backend + frontend)
+-	Codeigniter PHP Framework (built codefight cms with this framework)
 -	MySQL
 -	jQuery
 -	Ajax
