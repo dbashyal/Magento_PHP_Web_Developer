@@ -94,4 +94,24 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 - <a href="http://www.vimwood.com.au/" rel="external nofollow">vimwood.com.au</a>
 
 
+## Recommendations received on LinkedIn
+### Mike Larcher (Founder of Acidgreen, Outsourced, and Academ)
+Damodar worked with me for over 6 years and is a loyal, dedicated and diligent employee. He was one of the first Magento Developers in Australia and has worked with me on many exciting projects including the Bing Lee's first e-commerce store in Australia. Damodar has been consistently reliable and willing to always go the extra mile. He is a fantastic developer and individual I would highly recommend him to any potential employer.
 
+### Mark Binns (Current Head of Search at Acidgreen)
+I feel privileged to work with Damu. He is a fantastic developer. Sometimes it is not easy to prepare a really tight brief but he always seems to understand exactly what it is that you are looking for. His work has made me look really good on a number of occasions. He is extremely modest, conscientious and reliable.
+
+### Andrew Rovenko (Former Lead Web Developer at Acidgreen)
+I worked with Damodar on a number of web projects (mostly Magento eCommerce platform based), and it was always fantastic to have him on the team.
+
+Damu is very dedicated, practical and solution oriented person, with many years of development experience and in-depth understanding of web application design and architecture, as well as various related technologies from back-end to front-end, database and server configuration. 
+
+He is also a great troubleshooter and isn't afraid of the challenges, however complicated the problem or requirements might be. This combined with great work ethic and professionalism made Damu an invaluable team member, who would deliver working and reliable solutions even under very tight timelines and I would highly recommend Damodar for any web development related role.
+
+### Aleasha Harris (Former Project Manager at Acidgreen)
+Damodar was one of the best devlopers that I worked with at AcidGreen. He was always polite and curteous in his dealings with internal staff and external clients, prompt in compleleting his assigned tasks ans escalating any issues.
+
+### Perry Burgess (Current Project Manager at Acidgreen)
+I have worked with many developers over my years but few with such an attitude that Damodar brings to the table. It is one thing to be a master of your trade but it is another to be able to articulate and explain that trade in an enthusiastic and casual manner. I believe Damodar is a great asset to any team & one of the most efficient and hard-working individuals I have ever had the pleasure to collaborate with.
+
+**View more on my linkedIn profile.**
