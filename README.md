@@ -100,6 +100,13 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 ### Mike Larcher (Founder of Acidgreen, Outsourced, and Academ)
 Damodar worked with me for over 6 years and is a loyal, dedicated and diligent employee. He was one of the first Magento Developers in Australia and has worked with me on many exciting projects including the Bing Lee's first e-commerce store in Australia. Damodar has been consistently reliable and willing to always go the extra mile. He is a fantastic developer and individual I would highly recommend him to any potential employer.
 
+### Emmanuel Negri (Development manager at Acidgreen)
+Damodar is a dedicated web developer who will get the job done who has experience working on both front end and back end. 
+In the last few years, Damu's has been focusing on the Magento eCommerce platform with both Community and Enterprise edition. 
+
+From configuring and theming the platform to installing and customising third party extensions as well as implementing bespoke functionalities, Damodar has a great knowledge of the beast!
+
+
 ### Mark Binns (Current Head of Search at Acidgreen)
 I feel privileged to work with Damu. He is a fantastic developer. Sometimes it is not easy to prepare a really tight brief but he always seems to understand exactly what it is that you are looking for. His work has made me look really good on a number of occasions. He is extremely modest, conscientious and reliable.
 
