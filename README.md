@@ -53,6 +53,8 @@ To obtain a challenging and rewarding senior magento web developer position wher
 -	GIT
 -	HTML5
 -	CSS3
+-	Font Awesome
+-	Twitter Bootstrap
 -	SEO etc...
 
 ## Education
