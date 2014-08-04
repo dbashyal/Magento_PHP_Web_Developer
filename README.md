@@ -164,4 +164,4 @@ Damodar was one of the best devlopers that I worked with at AcidGreen. He was al
 ### Perry Burgess (Current Project Manager at Acidgreen)
 I have worked with many developers over my years but few with such an attitude that Damodar brings to the table. It is one thing to be a master of your trade but it is another to be able to articulate and explain that trade in an enthusiastic and casual manner. I believe Damodar is a great asset to any team & one of the most efficient and hard-working individuals I have ever had the pleasure to collaborate with.
 
-**View more on my linkedIn profile.**
+**View more on my <a href="http://au.linkedin.com/in/dbashyal/" rel="nofollow external">linkedIn profile</a>.**
