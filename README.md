@@ -23,16 +23,15 @@ To obtain a challenging and rewarding senior magento web developer position wher
 ## Work experience
 
 ### Acidgreen Pty Ltd (April 2008 - Present), Senior Web Developer
-- I was employed as web developer and took no long to reach the position of senior web developer.
-- Being one of the experienced staff, most difficult projects end up to my project list which I enjoy as I always love challenges.
-- I was lead developer for one of our biggest magento client Binglee at acidgreen.
-- Since Binglee, we have been getting lots of large magento projects, and I have been involved with almost all of them in developing and deploying to live.
-- I have developed magento projects from scratch to production alone. So I can do both backend and frontend. I was not only coding backend, I was slicing PSDs and converting them to PHTML for magento frontend.
-- I used to install magento on local environment and staging. After testing on local, I used to push on staging for client's review. Once everything was completed and approved, I used to copy staging site to production.
-- We were using git to track all the changes and version the release.
-- We had Capistrano to automate deployment of latest release to production and staging.
-- I have created few magento extensions which runs in many sites.
-- You can find some of my magento extensions on my github repository at - https://github.com/dbashyal
+- I started as an osCommerce developer and later switched to another Open Source Ecommerce Platform Magento since version 1.3.2.4.
+- I was the first magento developer at Acidgreen, and one of the first in whole Australia before everyone started using this ecommerce web software for their ecommerce projects.
+- Being one of the most experienced magento developer sometimes I had to work with clients like Ficeda (Yamaha), Baby Got Style, My Catwalk at their own primises when they want to protect their privacy and want someone inhouse.
+- I was lead developer for one of our biggest magento client Binglee at acidgreen. I wrote most of the backend code including all extensions that we developed at acidgreen for this website.
+- Being largest project, Binglee, taught a lot and now I am more than comfortable with any size and complexity of project. This project helped me to boost my can do attitude.
+- Here I develop magento projects from scratch to until it goes live alone or with team collaboration.
+- Learned to use svn and then git and now capistrano to auto deploy projects to staging and live.
+- Created few magento extensions which runs in many popular sites like binglee, dlink, ficeda (yamaha), paddy pallin etc.
+- You can find my love to open source at github which includes my free magento extensions - https://github.com/dbashyal
 
 
 ### Visiontech Digital Media (Jan 2007 - April 2008), Web Developer
