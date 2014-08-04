@@ -35,26 +35,26 @@ To obtain a challenging and rewarding senior magento web developer position wher
 
 
 ### Visiontech Digital Media (Jan 2007 - April 2008), Web Developer
-- Started as a Junior Web Developer but exceeded everyone's expectation to drop Junior from title.
-- At this job I was doing 90% of the development work being only developer after development manager.
-- I had to work with clients to get their feedback and apply those updates.
+- started as a junior PHP web developer being my first job as a web programmer.
+- learned a lot about web servers, hostings, proper coding and most importantly codeigniter which became my all time favorite open source PHP framework.
+- learned to work alone and with a team.
+- developed awesome websites with codeigniter which includes afyf.com.au, cityliving.com.au, irisproperty.com.au
 
 ## Qualifications
--	Magento Certified Web Developer.
--	PHP
--	Magento CE & EE (backend + frontend)
--	Codeigniter PHP Framework (built codefight cms with this framework)
--	MySQL
--	jQuery
--	Ajax
--	JavaScript
--	Photoshop
--	GIT
--	HTML5
--	CSS3
--	Font Awesome
--	Twitter Bootstrap
--	SEO etc...
+- Magento CE & EE (backend + frontend). I am a Magento Certified Web Developer.
+- PHP
+- Codeigniter PHP Framework (I developed codefight cms with this framework by myself)
+- MySQL
+- jQuery
+- Ajax
+- JavaScript
+- Photoshop
+- GIT
+- HTML5
+- CSS3
+- Font Awesome
+- Twitter Bootstrap
+- SEO etc...
 
 ## Education
 
