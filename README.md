@@ -73,26 +73,68 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 
 ## Some of the websites I developed alone or was part of development team includes:
 - <a href="http://www.aquashop.com.au/" rel="external nofollow">aquashop.com.au</a>
+	- Help team member to setup & guide to develop magento site
+	- Help with features, bug fixes and optimisation
+	- uses magento community
 - <a href="http://www.babysgotstyle.com.au/" rel="external nofollow">babysgotstyle.com.au</a>
+	- develop website from scratch based on old website with custom extensions
+	- uses magento enterprise
 - <a href="http://www.beddingco.com.au/" rel="external nofollow">beddingco.com.au</a>
-- <a href="http://www.binglee.com.au/" rel="external nofollow">binglee.com.au</a>
-- <a href="http://www.blueboxworkwear.com.au/" rel="external nofollow">blueboxworkwear.com.au</a>
-- <a href="http://chainsoflove.com.au/" rel="external nofollow">chainsoflove.com.au</a> (it was awesome site, but looks like no longer exists)
-- <a href="http://www.closetprincess.com.au/" rel="external nofollow">closetprincess.com.au</a>
-- <a href="http://www.costumebox.com.au/" rel="external nofollow">costumebox.com.au</a>
-- <a href="http://www.crazyclarks.com.au/" rel="external nofollow">crazyclarks.com.au</a>
+	- developed responsive website from scratch using custom magento extensions and jquery plugins
+	- did 100% of the development work i.e. backend and frontend.
+	- uses magento enterprise
 - <a href="https://www.dealsdownunder.com.au/" rel="external nofollow">dealsdownunder.com.au</a>
+	- part of beddingco
+- <a href="http://www.binglee.com.au/" rel="external nofollow">binglee.com.au</a>
+	- wrote few extensions and coded most of the backend.
+	- did some frontend work as well
+	- uses magento enterprise
+- <a href="http://www.blueboxworkwear.com.au/" rel="external nofollow">blueboxworkwear.com.au</a>
+	- did full development alone
+	- wrote custom magento extensions
+	- uses magento community
+- <a href="http://chainsoflove.com.au/" rel="external nofollow">chainsoflove.com.au</a> (it was awesome site, but looks like no longer exists)
+	- developed full site alone with the help of magento community edition
+- <a href="http://www.costumebox.com.au/" rel="external nofollow">costumebox.com.au</a>
+	- this was exisiting magento project on community edition
+	- wrote nav manager and browser detection extensions to create custom nav for mobile devices
+	- wrote log manager to view system log data from admin for client so they can monitor log and request to fix any error.
+- <a href="http://www.crazyclarks.com.au/" rel="external nofollow">crazyclarks.com.au</a>
+	- finish up half done site
+	- optimise
+	- wrote custom store locator extension
+	- uses community edition
+- <a href="http://www.samswarehouse.com.au/" rel="external nofollow">samswarehouse.com.au</a>
+	- part of crazy clarks
 - <a href="https://www.desking-systems.com.au/" rel="external nofollow">desking-systems.com.au</a>
+	- developed full website on magento community
 - <a href="http://www.dlink.com.au/" rel="external nofollow">dlink.com.au</a>
+	- help tiding up code and optimize it
+	- wrote custom 404 extension to reduce number of 404 pages.
+	- wrote extension that would give flexibility for client to enable check payment on admin only or both.
+	- uses magento community edition
 - <a href="http://dlink.co.nz/" rel="external nofollow">dlink.co.nz</a> (coming soon)
 - <a href="http://ficeda.com.au/" rel="external nofollow">ficeda.com.au</a>
+	- after months with another development company this project came to us with crappy code and broken site.
+	- I went to yamaha office and work with their IT team as they lost trust with agencies outsourcing work without client's knowledge and dragging site for months and result in a crappy site.
+	- I had to redo all work with same version of magento as agreed. Their trust was regained with more project work offered to us.
 - <a href="http://www.k-co.com.au/" rel="external nofollow">k-co.com.au</a>
+	- optimisation and bug fixes
+	- wrote custom extension that would send unique coupon code to every new newsletter subscribers.
+	- uses magento community edition
 - <a href="http://www.paddypallin.com.au/" rel="external nofollow">paddypallin.com.au</a>
+	- upgraded previous magento version to latest at the time
+	- wrote custom store locator extension
+	- uses magento community edition
 - <a href="http://www.pukaraestate.com.au/" rel="external nofollow">pukaraestate.com.au</a>
-- <a href="http://www.samswarehouse.com.au/" rel="external nofollow">samswarehouse.com.au</a>
+	- initial magento setup for new project development and wrote stockist functionality.
 - <a href="http://www.swimmingspecialists.com/" rel="external nofollow">swimmingspecialists.com</a>
+	- this is old project which I did full web development using oscommerce
 - <a href="http://www.sydneytools.com.au/" rel="external nofollow">sydneytools.com.au</a>
+	- help with development and optimisation
 - <a href="http://www.vimwood.com.au/" rel="external nofollow">vimwood.com.au</a>
+	- full development using magento community edition
+	- coded brand extension, store extension and navigation extension
 
 
 ## Recommendations received on LinkedIn
