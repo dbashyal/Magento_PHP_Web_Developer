@@ -1,24 +1,21 @@
 Damodar Bashyal
 ===============
 
-LinkedIn: <a href="http://au.linkedin.com/in/dbashyal/" rel="nofollow">http://au.linkedin.com/in/dbashyal/</a>
+LinkedIn: [dbashyal](http://au.linkedin.com/in/dbashyal/)
 
-Twitter: <a href="http://twitter.com/dbashyal/" rel="nofollow">http://twitter.com/dbashyal</a>
+Twitter: [dbashyal](https://twitter.com/dbashyal)
 
 Personal Websites:
 
- - <a href="http://damodarbashyal.com/," rel="nofollow">http://damodarbashyal.com/</a> (my homepage)
- - <a href="http://codefight.org/," rel="nofollow">http://codefight.org/</a> (my custom cms)
- - <a href="http://dltr.org/" rel="nofollow">http://dltr.org/</a> (my magento + web development blog)
+- [dltr.org](http://dltr.org/) - My magento + Web development blog
+- [Codefight CMS](http://codefight.org/) - My Custom CMS based on then most popular PHP framework called Codeigniter CMS.
 
-Stack Overflow: <a href="http://careers.stackoverflow.com/dbashyal" rel="external nofollow">http://careers.stackoverflow.com/dbashyal</a>
 
 **Address:** PO BOX 1124, Rockdale, NSW 2216, Australia
-	
 
 ## Objective
 
-To obtain a challenging and rewarding senior magento web developer position where I can utilize my knowledge, proficiency, and skills to contribute to a company's growth.
+To obtain a challenging and rewarding Senior Magento Web Developer position where I can utilize my knowledge, proficiency, and skills to contribute to a company's growth.
 
 ## Work experience
 
@@ -80,67 +77,92 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
  - Different Programming Languages.
 
 ## Some of the websites I developed alone or was part of development team includes:
-- <a href="http://www.aquashop.com.au/" rel="external nofollow">aquashop.com.au</a>
-	- Help team member to setup & guide to develop magento site
-	- Help with features, bug fixes and optimisation
-	- uses magento community
-- <a href="http://www.babysgotstyle.com.au/" rel="external nofollow">babysgotstyle.com.au</a>
-	- develop website from scratch based on old website with custom extensions
-	- uses magento enterprise
-- <a href="http://www.beddingco.com.au/" rel="external nofollow">beddingco.com.au</a>
-	- developed responsive website from scratch using custom magento extensions and jquery plugins
-	- did 100% of the development work i.e. backend and frontend.
-	- uses magento enterprise
-- <a href="https://www.dealsdownunder.com.au/" rel="external nofollow">dealsdownunder.com.au</a>
-	- part of beddingco
-- <a href="http://www.binglee.com.au/" rel="external nofollow">binglee.com.au</a>
+- http://www.dicksmith.com.au
+- http://www.dicksmith.co.nz
+- http://www.movestore.com.au
+    - Dicksmith websites uses magento enterprise
+	
+- http://www.binglee.com.au/
 	- wrote few extensions and coded most of the backend.
 	- did some frontend work as well
 	- uses magento enterprise
-- <a href="http://www.blueboxworkwear.com.au/" rel="external nofollow">blueboxworkwear.com.au</a>
-	- did full development alone
-	- wrote custom magento extensions
-	- uses magento community
-- <a href="http://chainsoflove.com.au/" rel="external nofollow">chainsoflove.com.au</a> (it was awesome site, but looks like no longer exists)
-	- developed full site alone with the help of magento community edition
-- <a href="http://www.costumebox.com.au/" rel="external nofollow">costumebox.com.au</a>
-	- this was exisiting magento project on community edition
-	- wrote nav manager and browser detection extensions to create custom nav for mobile devices
-	- wrote log manager to view system log data from admin for client so they can monitor log and request to fix any error.
-- <a href="http://www.crazyclarks.com.au/" rel="external nofollow">crazyclarks.com.au</a>
-	- finish up half done site
-	- optimise
-	- wrote custom store locator extension
-	- uses community edition
-- <a href="http://www.samswarehouse.com.au/" rel="external nofollow">samswarehouse.com.au</a>
-	- part of crazy clarks
-- <a href="https://www.desking-systems.com.au/" rel="external nofollow">desking-systems.com.au</a>
-	- developed full website on magento community
-- <a href="http://www.dlink.com.au/" rel="external nofollow">dlink.com.au</a>
+	
+- http://www.dlink.com.au/
 	- help tiding up code and optimize it
 	- wrote custom 404 extension to reduce number of 404 pages.
 	- wrote extension that would give flexibility for client to enable check payment on admin only or both.
 	- uses magento community edition
-- <a href="http://dlink.co.nz/" rel="external nofollow">dlink.co.nz</a> (coming soon)
-- <a href="http://ficeda.com.au/" rel="external nofollow">ficeda.com.au</a>
+	
+- http://dlink.co.nz/ 
+    - (coming soon)
+    
+- http://www.aquashop.com.au/
+	- Help team member to setup & guide to develop magento site
+	- Help with features, bug fixes and optimisation
+	- uses magento community
+	
+- http://www.babysgotstyle.com.au/
+	- develop website from scratch based on old website with custom extensions
+	- uses magento enterprise
+	
+- http://www.beddingco.com.au/
+	- developed responsive website from scratch using custom magento extensions and jquery plugins
+	- did 100% of the development work i.e. backend and frontend.
+	- uses magento enterprise
+	
+- https://www.dealsdownunder.com.au/
+	- part of beddingco
+
+- http://www.blueboxworkwear.com.au/
+	- did full development alone
+	- wrote custom magento extensions
+	- uses magento community
+	
+- http://chainsoflove.com.au/
+	- developed full site alone with the help of magento community edition
+	
+- http://www.costumebox.com.au/
+	- this was exisiting magento project on community edition
+	- wrote nav manager and browser detection extensions to create custom nav for mobile devices
+	- wrote log manager to view system log data from admin for client so they can monitor log and request to fix any error.
+	
+- http://www.crazyclarks.com.au/
+	- finish up half done site
+	- optimise
+	- wrote custom store locator extension
+	- uses community edition
+	
+- http://www.samswarehouse.com.au/
+	- part of crazy clarks
+	
+- https://www.desking-systems.com.au/
+	- developed full website on magento community
+    
+- http://ficeda.com.au/ (Yamaha Motors)
 	- after months with another development company this project came to us with crappy code and broken site.
 	- I went to yamaha office and work with their IT team as they lost trust with agencies outsourcing work without client's knowledge and dragging site for months and result in a crappy site.
 	- I had to redo all work with same version of magento as agreed. Their trust was regained with more project work offered to us.
-- <a href="http://www.k-co.com.au/" rel="external nofollow">k-co.com.au</a>
+	
+- http://www.k-co.com.au/
 	- optimisation and bug fixes
 	- wrote custom extension that would send unique coupon code to every new newsletter subscribers.
 	- uses magento community edition
-- <a href="http://www.paddypallin.com.au/" rel="external nofollow">paddypallin.com.au</a>
+	
+- http://www.paddypallin.com.au/
 	- upgraded previous magento version to latest at the time
 	- wrote custom store locator extension
 	- uses magento community edition
-- <a href="http://www.pukaraestate.com.au/" rel="external nofollow">pukaraestate.com.au</a>
+	
+- http://www.pukaraestate.com.au/
 	- initial magento setup for new project development and wrote stockist functionality.
-- <a href="http://www.swimmingspecialists.com/" rel="external nofollow">swimmingspecialists.com</a>
+	
+- http://www.swimmingspecialists.com/
 	- this is old project which I did full web development using oscommerce
-- <a href="http://www.sydneytools.com.au/" rel="external nofollow">sydneytools.com.au</a>
+	
+- http://www.sydneytools.com.au/
 	- help with development and optimisation
-- <a href="http://www.vimwood.com.au/" rel="external nofollow">vimwood.com.au</a>
+	
+- http://www.vimwood.com.au/
 	- full development using magento community edition
 	- coded brand extension, store extension and navigation extension
 
@@ -172,4 +194,4 @@ Damodar was one of the best devlopers that I worked with at AcidGreen. He was al
 ### Perry Burgess (Current Project Manager at Acidgreen)
 I have worked with many developers over my years but few with such an attitude that Damodar brings to the table. It is one thing to be a master of your trade but it is another to be able to articulate and explain that trade in an enthusiastic and casual manner. I believe Damodar is a great asset to any team & one of the most efficient and hard-working individuals I have ever had the pleasure to collaborate with.
 
-**View more on my <a href="http://au.linkedin.com/in/dbashyal/" rel="nofollow external">linkedIn profile</a>.**
+View more on my [linkedIn profile](http://au.linkedin.com/in/dbashyal/).
