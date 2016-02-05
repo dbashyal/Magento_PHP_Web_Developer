@@ -22,7 +22,11 @@ To obtain a challenging and rewarding senior magento web developer position wher
 
 ## Work experience
 
-### Acidgreen Pty Ltd (April 2008 - Present), Senior Web Developer
+### Dick Smith Electronics (September 2014 - Present), Senior Magento Developer
+- Fix mess of digital agency (one of the gold magento partner).
+- Make website stable. It used to go down for atleast 10 mins after each deployment before I joined the company.
+
+### Acidgreen Pty Ltd (April 2008 - September 2014), Senior Web Developer
 - I started as an osCommerce developer and later switched to another Open Source Ecommerce Platform Magento since version 1.3.2.4.
 - I was the first magento developer at Acidgreen, and one of the first in whole Australia before everyone started using this ecommerce web software for their ecommerce projects.
 - Being one of the most experienced magento developer sometimes I had to work with clients like Ficeda (Yamaha), Baby Got Style, My Catwalk at their own primises when they want to protect their privacy and want someone inhouse.
