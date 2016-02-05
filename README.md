@@ -25,6 +25,10 @@ To obtain a challenging and rewarding senior magento web developer position wher
 ### Dick Smith Electronics (September 2014 - Present), Senior Magento Developer
 - Fix mess of digital agency (one of the gold magento partner).
 - Make website stable. It used to go down for atleast 10 mins after each deployment before I joined the company.
+- I was responsible for applying every security patch released by Magento.
+- I successfully upgraded company's website to latest major version (1.14.2.3) successfully.
+- Currently we are working on new theme based on angularJS. Cart and checkout is already live.
+(Please refer to my linkedin profile to find what my CIO and all the managers has to say about me and my work at Dick Smith.)
 
 ### Acidgreen Pty Ltd (April 2008 - September 2014), Senior Web Developer
 - I started as an osCommerce developer and later switched to another Open Source Ecommerce Platform Magento since version 1.3.2.4.
