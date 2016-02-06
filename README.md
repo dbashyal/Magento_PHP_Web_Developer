@@ -23,7 +23,8 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 
 ## Work experience
 
-### Dick Smith Electronics (September 2014 - Present), Senior Magento Developer
+### Senior Magento Developer
+## Dick Smith Electronics (September 2014 - Present)
 - Fix mess of digital agency (one of the gold magento partner).
 - Make website stable. It used to go down for atleast 10 mins after each deployment before I joined the company.
 - I was responsible for applying every security patch released by Magento.
@@ -32,7 +33,8 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 
 (Please refer to my linkedin profile to find what my CIO and all the managers has to say about me and my work at Dick Smith)
 
-### Acidgreen Pty Ltd (April 2008 - September 2014), Senior Web Developer
+### Senior Web Developer
+#### Acidgreen Pty Ltd (April 2008 - September 2014)
 - I started as an osCommerce developer and later switched to another Open Source Ecommerce Platform Magento since version 1.3.2.4.
 - I was the first magento developer at Acidgreen, and one of the first in whole Australia before everyone started using this ecommerce web software for their ecommerce projects.
 - Being one of the most experienced magento developer sometimes I had to work with clients like Ficeda (Yamaha), Baby Got Style, My Catwalk at their own primises when they want to protect their privacy and want someone inhouse.
@@ -44,7 +46,8 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 - You can find my love to open source at github which includes my free magento extensions - https://github.com/dbashyal
 
 
-### Visiontech Digital Media (Jan 2007 - April 2008), Web Developer
+## Web Developer
+#### Visiontech Digital Media (Jan 2007 - April 2008)
 - started as a junior PHP web developer being my first job as a web programmer.
 - learned a lot about web servers, hostings, proper coding and most importantly codeigniter which became my all time favorite open source PHP framework.
 - learned to work alone and with a team.
