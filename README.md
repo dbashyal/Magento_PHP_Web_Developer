@@ -11,7 +11,11 @@ Personal Websites:
 - [Codefight CMS](http://codefight.org/) - My Custom CMS based on then most popular PHP framework called Codeigniter CMS.
 
 
-**Address:** PO BOX 1124, Rockdale, NSW 2216, Australia
+**Address:** 
+
+PO BOX 1124, Rockdale, NSW 2216, Australia
+
+**Message me on linkedin for contact number**
 
 ## Objective
 
@@ -23,9 +27,10 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 - Fix mess of digital agency (one of the gold magento partner).
 - Make website stable. It used to go down for atleast 10 mins after each deployment before I joined the company.
 - I was responsible for applying every security patch released by Magento.
-- I successfully upgraded company's website to latest major version (1.14.2.3) successfully.
+- I upgraded company's website to latest major version (1.14.2.3) successfully.
 - Currently we are working on new theme based on angularJS. Cart and checkout is already live.
-(Please refer to my linkedin profile to find what my CIO and all the managers has to say about me and my work at Dick Smith.)
+
+(Please refer to my linkedin profile to find what my CIO and all the managers has to say about me and my work at Dick Smith)
 
 ### Acidgreen Pty Ltd (April 2008 - September 2014), Senior Web Developer
 - I started as an osCommerce developer and later switched to another Open Source Ecommerce Platform Magento since version 1.3.2.4.
@@ -47,18 +52,13 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 
 ## Qualifications
 - Magento CE & EE (backend + frontend). I am a Magento Certified Web Developer.
-- PHP
+- Linux, Apache, Mysql, PHP, nginx, Vagrant
 - Codeigniter PHP Framework (I developed codefight cms with this framework by myself)
-- MySQL
-- jQuery
-- Ajax
-- JavaScript
+- JavaScript, jQuery & angularJS
 - Photoshop
-- GIT
-- HTML5
-- CSS3
-- Font Awesome
-- Twitter Bootstrap
+- GIT, SVN
+- HTML5, CSS3
+- AWS
 - SEO etc...
 
 ## Education
@@ -168,6 +168,12 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 
 
 ## Recommendations received on LinkedIn
+### Paul Keen (Chief Information Officer at Dick Smith Electronics)
+Frankly, Damu knows he's stuff. From day one, he proved his in-depth knowledge of Magento and started to increase our technical skills. He works well in the Agile teams and has brought capability and stability to one of the largest e-commerce sites in AU/NZ. Highly recommended.
+
+### Ming Yan (Technical Lead at Dick Smith Electronics)
+Damu is a Magento guru who has comprehensive Magento knowledges and skills. Since joining the team, Damu has proven himself with his excellent work and focus on details. Thank you Damu for all your effort to make the Dick Smith website faster, more efficient and more stable. Damu is also always committed to the work and I really appreciate his positive working attitude, apart from his technical skills. It is really great to have Damu in the team.
+
 ### Mike Larcher (Founder of Acidgreen, Outsourced, and Academ)
 Damodar worked with me for over 6 years and is a loyal, dedicated and diligent employee. He was one of the first Magento Developers in Australia and has worked with me on many exciting projects including the Bing Lee's first e-commerce store in Australia. Damodar has been consistently reliable and willing to always go the extra mile. He is a fantastic developer and individual I would highly recommend him to any potential employer.
 
