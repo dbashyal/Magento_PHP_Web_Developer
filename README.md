@@ -15,7 +15,8 @@ Personal Websites:
 
 PO BOX 1124, Rockdale, NSW 2216, Australia
 
-**Message me on linkedin for contact number**
+**Message me on linkedin for contact number.** 
+*References will be provided on request*
 
 ## Objective
 
@@ -66,10 +67,12 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 
 ## Education
 
-### Bachelor in Information Technology (2003 - 2004), University of Ballarat
+### Bachelor in Information Technology (2003 - 2004)
+##### University of Ballarat
 Some of the subjects I studied there includes C# .Net C C++ Java Linux
 
-### Diploma In Information Technology (2000 - 2003), Clarendon Business College
+### Diploma In Information Technology (2000 - 2003)
+##### Clarendon Business College
 
 ## Interests
 
@@ -171,36 +174,44 @@ Some of the subjects I studied there includes C# .Net C C++ Java Linux
 
 
 ## Recommendations received on LinkedIn
-### Paul Keen (Chief Information Officer at Dick Smith Electronics)
+### Paul Keen
+##### (Chief Information Officer at Dick Smith Electronics)
 Frankly, Damu knows he's stuff. From day one, he proved his in-depth knowledge of Magento and started to increase our technical skills. He works well in the Agile teams and has brought capability and stability to one of the largest e-commerce sites in AU/NZ. Highly recommended.
 
-### Ming Yan (Technical Lead at Dick Smith Electronics)
+### Ming Yan
+##### (Technical Lead at Dick Smith Electronics)
 Damu is a Magento guru who has comprehensive Magento knowledges and skills. Since joining the team, Damu has proven himself with his excellent work and focus on details. Thank you Damu for all your effort to make the Dick Smith website faster, more efficient and more stable. Damu is also always committed to the work and I really appreciate his positive working attitude, apart from his technical skills. It is really great to have Damu in the team.
 
-### Mike Larcher (Founder of Acidgreen, Outsourced, and Academ)
+### Mike Larcher
+##### (Founder of Acidgreen, Outsourced, and Academ)
 Damodar worked with me for over 6 years and is a loyal, dedicated and diligent employee. He was one of the first Magento Developers in Australia and has worked with me on many exciting projects including the Bing Lee's first e-commerce store in Australia. Damodar has been consistently reliable and willing to always go the extra mile. He is a fantastic developer and individual I would highly recommend him to any potential employer.
 
-### Emmanuel Negri (Development manager at Acidgreen)
+### Emmanuel Negri
+##### (Development manager at Acidgreen)
 Damodar is a dedicated web developer who will get the job done who has experience working on both front end and back end. 
 In the last few years, Damu's has been focusing on the Magento eCommerce platform with both Community and Enterprise edition. 
 
 From configuring and theming the platform to installing and customising third party extensions as well as implementing bespoke functionalities, Damodar has a great knowledge of the beast!
 
 
-### Mark Binns (Current Head of Search at Acidgreen)
+### Mark Binns
+##### (Current Head of Search at Acidgreen)
 I feel privileged to work with Damu. He is a fantastic developer. Sometimes it is not easy to prepare a really tight brief but he always seems to understand exactly what it is that you are looking for. His work has made me look really good on a number of occasions. He is extremely modest, conscientious and reliable.
 
-### Andrew Rovenko (Former Lead Web Developer at Acidgreen)
+### Andrew Rovenko
+##### (Former Lead Web Developer at Acidgreen)
 I worked with Damodar on a number of web projects (mostly Magento eCommerce platform based), and it was always fantastic to have him on the team.
 
 Damu is very dedicated, practical and solution oriented person, with many years of development experience and in-depth understanding of web application design and architecture, as well as various related technologies from back-end to front-end, database and server configuration. 
 
 He is also a great troubleshooter and isn't afraid of the challenges, however complicated the problem or requirements might be. This combined with great work ethic and professionalism made Damu an invaluable team member, who would deliver working and reliable solutions even under very tight timelines and I would highly recommend Damodar for any web development related role.
 
-### Aleasha Harris (Former Project Manager at Acidgreen)
+### Aleasha Harris
+##### (Former Project Manager at Acidgreen)
 Damodar was one of the best devlopers that I worked with at AcidGreen. He was always polite and curteous in his dealings with internal staff and external clients, prompt in compleleting his assigned tasks ans escalating any issues.
 
-### Perry Burgess (Current Project Manager at Acidgreen)
+### Perry Burgess
+##### (Current Project Manager at Acidgreen)
 I have worked with many developers over my years but few with such an attitude that Damodar brings to the table. It is one thing to be a master of your trade but it is another to be able to articulate and explain that trade in an enthusiastic and casual manner. I believe Damodar is a great asset to any team & one of the most efficient and hard-working individuals I have ever had the pleasure to collaborate with.
 
 View more on my [linkedIn profile](http://au.linkedin.com/in/dbashyal/).
