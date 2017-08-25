@@ -24,8 +24,22 @@ To obtain a challenging and rewarding Senior Magento Web Developer position wher
 
 ## Work experience
 
+### Senior Magento & Javascript Developer
+##### Lowes Manhattan Pty Ltd (February 2016 - Present)
+At the moment I am the only Magento Developer at the company. 
+
+Tasks:
+* Monitor the quality of work being done by agency on our new website based on Magento Enterprise.
+* Regression Testing after new code release.
+* Provide suggestion + solution back to the agency's developers for bugs and issues found during test
+* Wrote a script to create / update / delete stores on google business using api.
+* Wrote TradeMe nodeJS module to manage listings on tradeMe.
+* Wrote Auspost and other APIs.
+* Manage marketplace accounts and feeds.
+
+
 ### Senior Magento Developer
-##### Dick Smith Electronics (September 2014 - Present)
+##### Dick Smith Electronics (September 2014 - February 2016)
 - Fix mess of digital agency (one of the gold magento partner).
 - Make website stable. It used to go down for atleast 10 mins after each deployment before I joined the company.
 - I was responsible for applying every security patch released by Magento.
